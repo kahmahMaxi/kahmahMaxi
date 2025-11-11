@@ -6,7 +6,7 @@ I love shipping fast, solving tough problems, and working with startups at the i
 ---
 
 ## 🛠️ Tech Stack
-- **Programmig Langauges:** JavaScript, PHP, TypeScript, Node, Solidity, FunC, Rust
+- **Programmig Langauges:** JavaScript, PHP, TypeScript, Node, Solidity, FunC, Rust, Python
 - **Frameworks:** React, React Redux, Next.js, React Native (Expo), Web3.js, Ether.js, Firebase.js, Socket.io, Express.js
 - **Database:** MongoDB, Firebase Firestore, MySQL
 - **Blockchain:** Solidity (Ethereum, BSC, Monad), Solana, Ton  
@@ -19,14 +19,12 @@ I love shipping fast, solving tough problems, and working with startups at the i
 - dApps (DeFi, NFT utilities, token tools)  
 - AI-powered apps with health & social integrations  
 - Full-stack mobile + web applications  
-- Smart contracts (Solidity & Solana)  
+- Smart contracts (Solidity & Solana)
+- Robotic AI Agents with custom tools using **[smcp](https://github.com/kahmahMaxi/animus-smcp/tree/feature-vibing/vibe-puppetry)**
 
 ---
 
 ## 📂 Some Featured Projects
-- **[ROSA](https://neurosa.ai/)** → AI-powered mental health platform + blockchain integration on Solana
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/afa13f96-c823-43ee-9803-a36ad02a44d4" />
-  <img width="400" height="866" alt="Image" src="https://github.com/user-attachments/assets/da478611-9006-4873-a9c0-fdb2a06b9f32" />
 - **[Vista](https://recyclebin.tech/)** → Windows Vista-inspired Web3 dApp (burn tokens, NFTs, LPs)
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42921ff7-e02d-4ae7-b239-eb9de9a52d4e" />  
 - **[Quasar](https://quasarid.web.app/)** → Hub for AI agent experimentation on Solana
