@@ -1,6 +1,6 @@
 ## Hi, Maxi here 👋
 
-I’m a **self-taught full-stack, web, mobile, and blockchain developer** with a knack for building things end-to-end — from idea → launch.  
+I’m a **full-stack, web, mobile, and blockchain developer** with a knack for building things end-to-end — from idea → launch.  
 I love shipping fast, solving tough problems, and working with startups at the intersection of **AI x Web3** 🚀
 
 ---
