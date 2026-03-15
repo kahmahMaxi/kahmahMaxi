@@ -1,4 +1,4 @@
-## Hi, Maxi here 👋
+## Hi, Receid here 👋
 
 I’m a **full-stack, web, mobile, and blockchain developer** with a knack for building things end-to-end from idea → launch.  
 I love shipping fast, solving tough problems, and working with startups at the intersection of **AI x Web3** 🚀
@@ -30,16 +30,13 @@ I love shipping fast, solving tough problems, and working with startups at the i
 - **[Quasar](https://quasarid.web.app/)** → Hub for AI agent experimentation on Solana
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6115a403-792c-44a8-b03e-85f36eab2682" />  
 
-*(more coming or view all on my tg showcase channel 👉 https://t.me/maxishowcase)*
-
 ---
 
 *if you made it this far, connect with me and together we shall achieve your next idea, and do great things.*
 
 ## 🤝 Let’s Connect
 - 💼 i'm open to freelance, collabs & long-term roles. i'm always active and hungry to work.  
-- 📧 Reach me on: **[Telegram](https://t.me/maxiprooo)**,  **[Twitter](https://x.com/maxiprodev)**
-- 📧 discord: **@maxi_-_pro**  
+- 📧 Reach me on: **[Telegram](https://t.me/receiverrrrr)**,
 
 ---
 
